@@ -5,7 +5,7 @@ package com.set;
  */
 import java.util.TreeSet;
 
-public class TreeSetExample {
+public class TreeSetExample{
 
 	public static void main(String[] args) {
 		/*
